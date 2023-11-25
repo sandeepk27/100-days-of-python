@@ -1,0 +1,1 @@
+# lets start day 1 with basics
