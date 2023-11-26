@@ -1,4 +1,6 @@
-a = complex(8, 2)
+# Variables and print statements
+# know the datatype using type function
+a= complex(8, 2)
 b = True
 c = "sandy"
 d = None

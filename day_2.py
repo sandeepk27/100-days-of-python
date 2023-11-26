@@ -7,6 +7,8 @@ print("Hi")
 # pandas.read_csv("one.csv")
 # m = hashlib.sha256()
 
+
+# Data Types in  Python
 print(5+3)
 print("Sandeep")
 print(4-1)
