@@ -1,3 +1,4 @@
+# using addition, substraction, multiplication, modulus, remainmdet
 a=12
 b=7
 print(b+a)
