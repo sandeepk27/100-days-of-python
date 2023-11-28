@@ -1,4 +1,5 @@
-# using addition, substraction, multiplication, modulus, remainmdet
+# Arithmetic operators in python
+# using addition, substraction, multiplication,% modulus, / division, // floor division, *8 Exponenent
 a=12
 b=7
 print(b+a)
