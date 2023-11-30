@@ -4,6 +4,5 @@ a = input("Enter your name: ")
 x = input("Enter first number: ")
 y = input("Enter second number: ")
 print("Your name is", a)
-print(x  + y)
-
+z=(x  + y)
 print(int(x) + int(y))
