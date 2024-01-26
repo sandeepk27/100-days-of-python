@@ -1,5 +1,5 @@
 # Strings are immutable
-a = "!!!Sandy!! !!!!!!!!! Sandeep"
+a = "!!!Sandy!! !!!! Sandeep"
 print(len(a))
 print(a)
 print(a.upper())
