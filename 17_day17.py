@@ -11,3 +11,13 @@
 
 # print("Done with the loop")
 
+count = 5
+while (count > 2):
+  print(count)
+  count = count - 1
+else:
+  print("inside else statement")
+
+# do {
+  # loop body;
+# }while(condition);
