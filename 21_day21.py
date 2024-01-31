@@ -16,10 +16,10 @@ marks = [3, 5, 6, "Sandeep", True, 6, 7 , 2, 32, 345, 23]
 # print(marks[5-3]) # Positive index
 # print(marks[2]) # Positive index
 
-if "6" in marks:
-  print("Yes")
-else:
-  print("No")
+# if "6" in marks:
+#   print("Yes")
+# else:
+#   print("No")
 
 # Same thing applies for strings as well!
 # if "Sa" in "Sandeep":
@@ -29,7 +29,7 @@ else:
 # print(marks[1:9])
 # print(marks[1:9:3])
 
-lst = [i*i for i in range(10)]
-print(lst)
+# lst = [i*i for i in range(10)]
+# print(lst)
 lst = [i*i for i in range(10) if i%2==0]
 print(lst)
