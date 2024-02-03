@@ -1,6 +1,5 @@
 # Day 22 of code!
 # Write your code here.
-<<<<<<< HEAD
 
 # list methods
 
