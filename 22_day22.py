@@ -21,6 +21,4 @@ k = l + m
 # print(k)
 # l.extend(m)
 print(l)
-=======
-print('day 22 python')
->>>>>>> 724a122780a50c9f2e90a0f7e41f420203c42f5a
+
