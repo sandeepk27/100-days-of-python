@@ -6,11 +6,11 @@
 # s = {2, 4, 2, 6}
 # print(s)
 
-# info = {"Carla", 19, False, 5.9, 19}
-# print(info)
+info = {"Carla", 19, False, 5.9, 19}
+print(info)
 
-# # harry = set()
-# # print(type(harry))
+sid = set()
+print(type(sid))
 
-# for value in info:
-#   print(value)
+for value in info:
+  print(value)
