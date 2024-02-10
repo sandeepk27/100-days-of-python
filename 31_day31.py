@@ -12,6 +12,5 @@
 # #   print(f"The value corresponding to the key {key} is {info[key]}")
 
 # print(info.items())
-# for key, value in info.items():
-#   print(f"The value corresponding to the key {key} is {value}") 
-  
+for key, value in info.items():
+  print(f"The value corresponding to the key {key} is {value}") 
