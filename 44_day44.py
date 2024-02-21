@@ -9,5 +9,5 @@ def my_function():
 
 
 my_function()
-print(x)  # prints 5
-# print(y) # this will cause an error because y is a local variable and is not accessible outside of the function
+print(x)  # It prints 5
+#print(y) # this will cause an error because y is a local variable and is not accessible outside of the function
