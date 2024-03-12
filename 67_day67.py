@@ -4,7 +4,7 @@
 # Magic Dunder methods
 from emp import Employee
 
-e = Employee("Harry")
+e = Employee("Sandy")
 print(str(e))
 print(repr(e))
 # print(e.name)
