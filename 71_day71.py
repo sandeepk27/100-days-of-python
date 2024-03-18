@@ -1,2 +1,2 @@
-Day 71 of code!
-Write your code here.
+# Day 71 of code!
+# Write your code here.
